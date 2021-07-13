@@ -1,2 +1,2 @@
 # gitTest
-FIST LINE
+FIRST LINE
